@@ -14,6 +14,9 @@
 * https://www.algoexpert.io/product
 * https://app.codesignal.com/login & https://codesignal.com/
 * https://www.interviewcake.com/
+* [Interview Kickstart](https://www.interviewkickstart.com/)
+* [Coding Blocks](https://codingblocks.com/)
+* [Coding Ninjas](https://www.codingninjas.com/)
 * https://www.pramp.com/
 * https://www.codewars.com/
 * https://www.qualified.io/
